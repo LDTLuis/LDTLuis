@@ -3,6 +3,7 @@
 - 🔭 I’m currently working on Back-end
 - 🌱 I’m currently learning Java
 - 📫 My email is proff0lfob@gmail.com
+- 🗨 I speak portuguese, english and spanish
 
 <div align="center">
   <a href="https://github.com/LDTLuis">
