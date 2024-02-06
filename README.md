@@ -4,13 +4,6 @@
 - 🌱 I’m currently learning Java
 - 📫 My email is proff0lfob@gmail.com
 - 🗨 I speak portuguese, english and spanish
-
-<div align="center">
-  <a href="https://github.com/LDTLuis">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=LDTLuis&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-</div>
-
-  <div style="display: inline_block"><br>
   <h3> Languages: </h3>
   <img align="center" alt="Dev-CSS" height="30" width="40" <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg">
   <img align="center" alt="Dev-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
