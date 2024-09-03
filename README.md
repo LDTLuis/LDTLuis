@@ -11,7 +11,6 @@
 
 ![Java](https://img.shields.io/badge/java-black.svg?style=for-the-badge&logo=openjdk&logoColor=white)
 ![C](https://img.shields.io/badge/C-black?style=for-the-badge&logo=c&logoColor=white)
-![C#](https://img.shields.io/badge/C%23-black?style=for-the-badge&logo=c-sharp&logoColor=white)
 
 ## GitHub Stats
 
