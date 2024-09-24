@@ -7,11 +7,12 @@
   <a href="https://instagram.com/ldt0luis_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="lfob" height="30" width="40" /></a>  
   </p>
   
-## Languages
+## Technology
 
 ![Java](https://img.shields.io/badge/java-black.svg?style=for-the-badge&logo=openjdk&logoColor=white)
 ![C](https://img.shields.io/badge/C-black?style=for-the-badge&logo=c&logoColor=white)
 
 ## GitHub Stats
 
+<img  height=150 src="https://github-readme-streak-stats.herokuapp.com/?user=LDTLuisGPM&theme=midnight-purple"/> <br />
 ![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=LDTLuis&bg_color=000&border_color=30A3DC&title_color=E94D5F&text_color=FFF)
