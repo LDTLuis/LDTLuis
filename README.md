@@ -14,5 +14,5 @@
 
 ## GitHub Stats
 
-<img  height=150 src="https://github-readme-streak-stats.herokuapp.com/?user=LDTLuisGPM&theme=midnight-purple"/> <br />
+<img  height=150 src="https://github-readme-streak-stats.herokuapp.com/?user=LDTLuisGPM&theme=midnight-purple"/>
 ![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=LDTLuis&bg_color=000&border_color=30A3DC&title_color=E94D5F&text_color=FFF)
