@@ -9,9 +9,7 @@
   
 ## Technology
 
-![Java](https://img.shields.io/badge/java-black.svg?style=for-the-badge&logo=openjdk&logoColor=white)
-![C](https://img.shields.io/badge/C-black?style=for-the-badge&logo=c&logoColor=white)
-https://img.icons8.com/?size=100&id=Pd2x9GWu9ovX&format=png&color=000000
+<img src="https://skillicons.dev/icons?i=java,c&theme=dark" />
 
 ## GitHub Stats
 
