@@ -1,5 +1,5 @@
 # LDTLuis
-  <a alt="Olá, seja bem vindo!" href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=1000&color=00ff00&random=false&width=435&lines=Ol%C3%A1%2C+seja+bem+vindo!" /></a>
+  <a alt="Hello, welcome!" href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=1000&color=00ff00&random=false&width=435&lines=Ol%C3%A1%2C+seja+bem+vindo!" /></a>
 ## Connect
 
 <p align="left">
