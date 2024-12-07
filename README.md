@@ -12,7 +12,7 @@
 ## Technology
 
 <p>
-  <img src="https://skillicons.dev/icons?i=java,c&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=java,c,py,js&theme=dark" />
 </p>
 
 ## GitHub Stats
