@@ -17,4 +17,4 @@
 
 ## GitHub Stats
 
-![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=LDTLuis&bg_color=000&border_color=00ff00&title_color=00ff00&text_color=FFF)
+![Linguagens](https://github-readme-stats.vercel.app/api/top-langs/?username=LDTLuis&bg_color=000&border_color=00ff00&title_color=00ff00&text_color=FFF&layout=compact&theme=dark&hide_title=true&langs_count=5)
