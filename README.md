@@ -5,13 +5,14 @@
 
 <p align="left">
   <a href="https://linkedin.com/in/lfobproff/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="lfob" height="30" width="40" /></a>
-  <a href="https://instagram.com/ldt0luis_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="lfob" height="30" width="40" /></a>  
+  <a href="https://instagram.com/ldt0luis_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="lfob" height="30" width="40" /></a> 
+ 
 </p>
   
 ## Technology
 
 <p>
-  <img src="https://skillicons.dev/icons?i=java,spring,c,py&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=java,spring,c,py,mysql,postgresql&theme=dark" />
 </p>
 
 ## GitHub Stats
