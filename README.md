@@ -12,7 +12,7 @@
 ## Languages and Tools:
 
 <p>
-  <img src="https://skillicons.dev/icons?i=java,spring,c,py,mysql,postgresql&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=java,spring,c,py,js,mysql,postgresql&theme=dark" />
 </p>
 
 
