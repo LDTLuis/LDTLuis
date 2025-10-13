@@ -19,14 +19,14 @@
 
 <h2 style="margin:0;padding:0;">Languages:</h2>
 <p style="margin-top:4px;margin-bottom:8px;">
-  <img src="https://skillicons.dev/icons?i=java,spring,c,py,js&theme=dark"
+  <img src="https://skillicons.dev/icons?i=java,c,py,js&theme=dark"
        alt="Languages"
        style="margin:0;padding:0;" />
 </p>
 
 <h2 style="margin:0;padding:0;">Tools:</h2>
 <p style="margin-top:4px;margin-bottom:8px;">
-  <img src="https://skillicons.dev/icons?i=mysql,postgresql,html,css,bootstrap,selenium,cypress,postman&theme=dark"
+  <img src="https://skillicons.dev/icons?i=spring,mysql,postgresql,html,css,bootstrap,selenium,cypress,postman&theme=dark"
        alt="Tools"
        style="margin:0;padding:0;" />
 </p>
