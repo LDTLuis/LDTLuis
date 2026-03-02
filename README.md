@@ -30,10 +30,3 @@
        alt="Tools"
        style="margin:0;padding:0;" />
 </p>
-
-<h2 style="margin:0;padding:0;">GitHub Stats:</h2>
-<p style="margin-top:4px;margin-bottom:0;">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=LDTLuis&bg_color=000&border_color=00ff00&title_color=00ff00&text_color=FFF&layout=compact&theme=dark&hide_title=true&langs_count=5"
-       alt="Linguagens mais usadas"
-       style="max-width:100%;margin:0;padding:0;border:0;" />
-</p>
