@@ -53,6 +53,8 @@
 
 -->
 
+<!-- FEATURED PROJECTS — uncomment when the repos are ready
+
 ## GitHub Stats
 
 <div align="center">
@@ -61,3 +63,5 @@
 <img src="./metrics.languages.svg" alt="Most used languages" />
 
 </div>
+
+-->
