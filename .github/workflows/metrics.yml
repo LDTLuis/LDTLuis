@@ -38,6 +38,16 @@ jobs:
           plugin_languages: yes
           plugin_languages_limit: 8
           plugin_languages_details: bytes-size, percentage
-          plugin_languages_sections: most-used
+          plugin_languages_sections: most-used, recently-used
+          # Analisa os seus commits com o linguist em vez de usar
+          # as estatisticas prontas do repositorio
+          plugin_languages_indepth: yes
+          # Conta so codigo: exclui dados, markup e texto
+          plugin_languages_categories: programming
+          # Esconde linguagens abaixo de 2%
+          plugin_languages_threshold: 2%
+          # Remova o # e ajuste se quiser pular um repositorio especifico
+          # plugin_languages_skipped: LDTLuis/nome-do-repo
+          plugin_languages_recent_days: 30
           config_timezone: America/Sao_Paulo
-          repositories_affiliations: owner, collaborator, organization_member
+          repositories_affiliations: owner, collaborator
