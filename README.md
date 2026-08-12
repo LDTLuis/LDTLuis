@@ -57,19 +57,7 @@
 
 <div align="center">
 
-<img height="165" alt="GitHub stats" src="https://github-readme-stats.vercel.app/api?username=LDTLuis&show_icons=true&theme=dark&hide_border=true&include_all_commits=true&count_private=true" />
-<img height="165" alt="Most used languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LDTLuis&layout=compact&theme=dark&hide_border=true&langs_count=8&count_private=true" />
+<img src="./metrics.overview.svg" alt="GitHub metrics overview" />
+<img src="./metrics.languages.svg" alt="Most used languages" />
 
 </div>
-
-<!--
-PRIVATE REPO STATS
-The public github-readme-stats instance cannot read private repositories.
-To include them, deploy your own instance and swap the host above:
-
-  https://YOUR-INSTANCE.vercel.app/api?username=...
-
-Steps: fork anuraghazra/github-readme-stats -> deploy on Vercel ->
-add an env var PAT_1 with a GitHub Personal Access Token that has
-the "repo" and "user" scopes.
--->
